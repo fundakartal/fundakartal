@@ -4,8 +4,9 @@
 ![CSS](https://img.shields.io/badge/CSS-2965f1)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e)
 ![Sass](https://img.shields.io/badge/Sass-cf649a)
+![ReactJS](https://img.shields.io/badge/%20-ReactJS-blue)
 
-- :computer: I've been learning HTML, CSS and JavaScript for a while.
+- :computer: I've been learning React.js for a while.
 - 🌱 And also I’m currently learning the foundations of UX design, including empathizing with users, building wireframes and prototypes, and conducting research.
 - :muscle: I want to improve myself in both front-end technologies and UX Design.
 - :heart: I keep learning new things every day.
